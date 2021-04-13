@@ -34,8 +34,12 @@ Installing Python 3.8 on Ubuntu from Source (Follow the link: https://linuxize.c
 
 --------------
 --------------
-### For Mac M1 Chip
+### For Macbook M1 Chip
+
 ---------------
-<img width="1440" alt="Screenshot 2021-04-14 at 2 05 30 AM" src="https://user-images.githubusercontent.com/14355490/114617909-58128b00-9cc6-11eb-9c04-0d6c8e0ce287.png">
----------
+
+![114617909-58128b00-9cc6-11eb-9c04-0d6c8e0ce287](https://user-images.githubusercontent.com/14355490/114618485-06b6cb80-9cc7-11eb-8b2f-cc1005b64e9a.png)
+
+------------------------
+
 <img width="1440" alt="Screenshot 2021-04-14 at 2 07 19 AM" src="https://user-images.githubusercontent.com/14355490/114617915-5b0d7b80-9cc6-11eb-8261-82ee425e2113.png">
