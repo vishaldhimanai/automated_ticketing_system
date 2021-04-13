@@ -10,7 +10,6 @@ def automated_ticketing_system(input_file):
     with open(input_file, "r") as f:
         """ set of unprocessed commands e.g. - Create_parking_lot 6\n"""
         unprocessed_input_commands = f.readlines()
-        print(unprocessed_input_commands)
     """ set of processed commands e.g. - Create_parking_lot 6"""
     input_commands = [command.replace("\n", "") for command in unprocessed_input_commands]
 
